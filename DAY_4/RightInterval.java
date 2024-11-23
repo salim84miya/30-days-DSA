@@ -3,6 +3,8 @@ package DAY_4;
 import java.util.Arrays;
 
 public class RightInterval {
+
+    //main driver code
     public static void main(String[] args){
 
 
